@@ -1,0 +1,20 @@
+:root {
+  --mainColor: #31395e;
+  --secondaryColor: #192734;
+
+  --boarderColor: #164d56;
+
+  --mainText: #fff;
+  --secondaryText: #eeeeee;
+
+  --themeDotBorder: #fff;
+
+  --previewBg: rgb(25, 39, 52, 0.3);
+  --previewShadow: #111921;
+
+  --buttonColor: #17a2b8;
+}
+
+ul a {
+  color: whitesmoke;
+}
